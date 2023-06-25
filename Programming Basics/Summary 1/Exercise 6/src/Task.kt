@@ -2,7 +2,12 @@
 package summaryIExercise6
 
 fun everyFifthNonSpace(s: String) {
-  TODO()
+  val result = s.replace("\\s+".toRegex(), "")
+  for(i in result.indices){
+    if( (i + 1) % 5 == 0 ) {
+      println(result[i])
+    }
+  }
 }
 
 fun main() {
