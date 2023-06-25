@@ -1,82 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="summaryIExercise2.TestSummaryIExercise2" tests="4" skipped="0" failures="4" errors="0" timestamp="2023-06-18T17:15:46" hostname="DESKTOP-HA2T019" time="0.033">
+<testsuite name="summaryIExercise2.TestSummaryIExercise2" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-06-25T08:14:09" hostname="DESKTOP-HA2T019" time="0.046">
   <properties/>
-  <testcase name="test1" classname="summaryIExercise2.TestSummaryIExercise2" time="0.009">
-    <failure message="kotlin.NotImplementedError: An operation is not implemented." type="kotlin.NotImplementedError">kotlin.NotImplementedError: An operation is not implemented.
-	at summaryIExercise2.TaskKt.other(Task.kt:5)
-	at summaryIExercise2.TestSummaryIExercise2.testString(Tests.kt:13)
-	at summaryIExercise2.TestSummaryIExercise2.test1(Tests.kt:17)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
-	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
-	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
-	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
-	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:299)
-	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:293)
-	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
-	at java.base/java.lang.Thread.run(Thread.java:833)
-</failure>
-  </testcase>
-  <testcase name="test2" classname="summaryIExercise2.TestSummaryIExercise2" time="0.0">
-    <failure message="kotlin.NotImplementedError: An operation is not implemented." type="kotlin.NotImplementedError">kotlin.NotImplementedError: An operation is not implemented.
-	at summaryIExercise2.TaskKt.other(Task.kt:5)
-	at summaryIExercise2.TestSummaryIExercise2.testString(Tests.kt:13)
-	at summaryIExercise2.TestSummaryIExercise2.test2(Tests.kt:20)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
-	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
-	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
-	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
-	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:299)
-	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:293)
-	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
-	at java.base/java.lang.Thread.run(Thread.java:833)
-</failure>
-  </testcase>
-  <testcase name="test3" classname="summaryIExercise2.TestSummaryIExercise2" time="0.001">
-    <failure message="kotlin.NotImplementedError: An operation is not implemented." type="kotlin.NotImplementedError">kotlin.NotImplementedError: An operation is not implemented.
-	at summaryIExercise2.TaskKt.other(Task.kt:5)
-	at summaryIExercise2.TestSummaryIExercise2.testString(Tests.kt:13)
-	at summaryIExercise2.TestSummaryIExercise2.test3(Tests.kt:23)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
-	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
-	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
-	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
-	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:299)
-	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:293)
-	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
-	at java.base/java.lang.Thread.run(Thread.java:833)
-</failure>
-  </testcase>
-  <testcase name="test4" classname="summaryIExercise2.TestSummaryIExercise2" time="0.022">
-    <failure message="kotlin.NotImplementedError: An operation is not implemented." type="kotlin.NotImplementedError">kotlin.NotImplementedError: An operation is not implemented.
-	at summaryIExercise2.TaskKt.other(Task.kt:5)
-	at summaryIExercise2.TestSummaryIExercise2.testString(Tests.kt:13)
-	at summaryIExercise2.TestSummaryIExercise2.test4(Tests.kt:26)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
-	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
-	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
-	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
-	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:299)
-	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:293)
-	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
-	at java.base/java.lang.Thread.run(Thread.java:833)
-</failure>
-  </testcase>
+  <testcase name="test1" classname="summaryIExercise2.TestSummaryIExercise2" time="0.013"/>
+  <testcase name="test2" classname="summaryIExercise2.TestSummaryIExercise2" time="0.001"/>
+  <testcase name="test3" classname="summaryIExercise2.TestSummaryIExercise2" time="0.001"/>
+  <testcase name="test4" classname="summaryIExercise2.TestSummaryIExercise2" time="0.029"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
