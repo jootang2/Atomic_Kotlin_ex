@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="summaryIExercise3.TestSummaryIExercise3" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-06-25T08:25:19" hostname="DESKTOP-HA2T019" time="0.013">
+  <properties/>
+  <testcase name="test1" classname="summaryIExercise3.TestSummaryIExercise3" time="0.012"/>
+  <testcase name="test2" classname="summaryIExercise3.TestSummaryIExercise3" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
