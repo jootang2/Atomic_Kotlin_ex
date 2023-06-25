@@ -2,11 +2,13 @@
 package summaryIExercise5
 
 fun everyFifth(start: Int, end: Int) {
-  TODO()
+    for (i in start + 4..end step 5) {
+        println(i)
+    }
 }
 
 fun main() {
-  everyFifth(11, 30)
+    everyFifth(11, 30)
 }
 /* Output:
 15
